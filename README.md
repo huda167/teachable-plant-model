@@ -9,7 +9,7 @@ It runs in Google Colab using TensorFlow Lite.
 - model_unquant.tflite: The trained model
 - labels.txt: Class labels
 - test.jpg: Sample image for testing
-- cood.ipynb: Notebook to run prediction
+- code.ipynb: Notebook to run prediction
 
 ## How to Use
 
